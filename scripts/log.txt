@@ -1,0 +1,6 @@
+Downloading the R1 file
+The R1 file has this many lines:
+   40000
+Downloading the R2 file
+The R2 file has this many lines:
+   40000
